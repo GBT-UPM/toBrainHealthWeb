@@ -8,10 +8,10 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Chulapa 101    #default["repository_name"]
+title                   : toBrainHealth    #default["repository_name"]
 title_separator         :     #default [" | "]
-subtitle                : Chulapa Jekyll Theme starter pack    #default [your-repository-tagline]  
-description             : Chulapa Jekyll Theme starter pack #default [your-repository-tagline]
+subtitle                : toBrainHealth project    #default [your-repository-tagline]  
+description             : Webpage of the Brain Health Project #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -21,7 +21,7 @@ timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/con
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  GBT ETSIT UPM   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Madrid, Spain"   # New York, USA 
 #  links:                
@@ -97,7 +97,7 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
+  - title   : News # Label
     url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
@@ -140,7 +140,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  skin         :  academia
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
