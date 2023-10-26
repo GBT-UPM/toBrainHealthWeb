@@ -5,20 +5,42 @@ header_type: hero
 subtitle: ToBrainHealth Project
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+ Welcome to ToBrainHealth: Advancing Brain Health Through Science
 
-Contains basic configuration to get you a site with:
+![Brain Health](https://example.com/brain-health-image.jpg)
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+## About ToBrainHealth
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+Welcome to ToBrainHealth, a scientific initiative dedicated to advancing our understanding of brain health. Our team is passionate about conducting rigorous research and disseminating knowledge that empowers individuals to make informed decisions for the well-being of their brains.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+## Our Mission
+
+At ToBrainHealth, our mission is clear: to explore, research, and educate. We are committed to uncovering the latest scientific insights into brain health and making this knowledge accessible to all. By understanding the intricacies of the brain and the impact of lifestyle on cognitive function, we aim to contribute to a brighter, healthier future for everyone.
+
+## Who We Are
+
+Our team comprises a diverse group of neuroscientists, researchers, and experts in various fields related to brain health. We are dedicated to conducting groundbreaking studies, sharing our findings, and providing a platform for informed discussions.
+
+## News and Publications
+
+Stay updated with the latest developments in the field of brain health through our curated collection of news articles, research papers, and publications. Our commitment to scientific rigor ensures that the information you find here is reliable and up-to-date.
+
+### Recent News
+
+- [Title of Recent News Article 1](#)
+- [Title of Recent News Article 2](#)
+- [Title of Recent News Article 3](#)
+
+### Publications
+
+Explore our scientific publications to delve deeper into our research and findings. Our publications encompass a wide range of topics related to brain health.
+
+- [Title of Publication 1](#)
+- [Title of Publication 2](#)
+- [Title of Publication 3](#)
+
+## Join the ToBrainHealth Community
+
+Join us in our pursuit of knowledge and better brain health. Together, we can contribute to a world where everyone has the tools and understanding to optimize brain function.
+
+[Get Involved](#)
