@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  : es-ES    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : #default["repository_name"]
+title                   : toBrainHealth #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                : #default [your-repository-tagline]  
 description             : #default [your-repository-tagline]
@@ -23,7 +23,7 @@ og_image                :     #default[author.avatar (see below)] or [github-ava
 twitter_site            :     #Avoid @
 author:
   name                  :  GBT ETSIT UPM   # Name Surname Company
-  avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
+  avatar                :  https://github.com/gbt-upm.png   # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Madrid, Spain"   # New York, USA 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
@@ -94,9 +94,9 @@ navbar:
   style     :  #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   :  Home # Title in navbar
+    title   :  toBrainHealth # Title in navbar
     url     :  # default["url/baseurl"]
-    img     :  # An small image, try 30x30px
+    img     :  /assets/logo/toBrainHealth # An small image, try 30x30px
   nav:
   - title   : News # Label
     url     : /blog/ # url	
@@ -112,26 +112,17 @@ navbar:
         url   : /archive
       - title : Current skin
         url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
+  
 #Social links to be placed on your site footer
 footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+      url   : https://github.com/gbt-upm # A link or email: https://twitter.com/jack, mail@example.com
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
-  copyright: # default is © <year> <name> 
+  copyright: ©Project PID2022-139298OB-C21 funded by MCIN /AEI /10.13039/501100011033 / FEDER, UE # default is © <year> <name> 
   
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
