@@ -13,7 +13,7 @@ title_separator         :     #default [" | "]
 subtitle                : #default [your-repository-tagline]  
 description             : #default [your-repository-tagline]
 url                     : gbt-upm.github.io    #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
-repository              : gbt-upm.github.io/toBrainHealthWeb
+repository              : toBrainHealthWeb
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
 timezone                : Europe/Madrid    #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
