@@ -1,7 +1,8 @@
 ---
 title: Enrique J. Gómez Aguilera
 subtitle: PI of toBrainHealth
-excerpt: A demo page checking Markdown
+image: http://www.gbt.tfo.upm.es/wp-content/uploads/2017/07/EnriqueJ.GmezAguilera_presidentedelaSociedadEspaoladeIngenieraBiomdica.jpg
+
 categories: [PI]
 ---
 ![Enrique J. Gómez Aguilera](http://www.gbt.tfo.upm.es/wp-content/uploads/2017/07/EnriqueJ.GmezAguilera_presidentedelaSociedadEspaoladeIngenieraBiomdica.jpg)
