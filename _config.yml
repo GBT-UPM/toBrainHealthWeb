@@ -146,9 +146,9 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
-  cheatsheet:
+  people:
     output: true
-    permalink: /cheatsheets/:name
+    permalink: /people/:name
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 
