@@ -100,8 +100,8 @@ navbar:
   nav:
   - title   : News # Label
     url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
+  - title   : About us
+    url     : /aboutus
   - title   : Extras
     child   :
       - title : Tags
