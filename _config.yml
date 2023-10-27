@@ -1,4 +1,4 @@
-remote_theme: dieghernan/chulapa
+#remote_theme: dieghernan/chulapa
 
 # Find errors on this file with http://www.yamllint.com/
 
@@ -115,7 +115,6 @@ navbar:
   
 #Social links to be placed on your site footer
 footer:
-  logo: assets/images/favicon.png
   copyright: ©Project PID2022-139298OB-C21 funded by MCIN /AEI /10.13039/501100011033 / FEDER, UE # default is © <year> <name> 
   
 # C. Theme Settings
