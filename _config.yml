@@ -149,8 +149,7 @@ collections:
   people:
     output: true
     permalink: /people/:name
-collections_dir     : 
-permalink           : /:year:month:day_:title/
+    order: Enrique.md
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
