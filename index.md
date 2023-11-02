@@ -7,7 +7,7 @@ subtitle: ToBrainHealth Project
 
  Welcome to ToBrainHealth: Advancing Brain Health Through Science
 
-![Brain Health](https://example.com/brain-health-image.jpg)
+![Brain Health](https://gbt-upm.github.io/toBrainHealthWeb/assets/logos/toBrainHealthLogo.png)
 
 ## About ToBrainHealth
 
