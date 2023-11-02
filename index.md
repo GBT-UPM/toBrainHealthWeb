@@ -5,21 +5,31 @@ header_type: hero
 subtitle: ToBrainHealth Project
 ---
 
- Welcome to ToBrainHealth: Advancing Brain Health Through Science
+ Welcome to ToBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
 
+<img src="assets/logos/toBrainHealthLogo.png" alt="Logo GBT" width="187">
 ![Brain Health](https://gbt-upm.github.io/toBrainHealthWeb/assets/logos/toBrainHealthLogo.png)
 
 ## About ToBrainHealth
 
 Welcome to ToBrainHealth, a scientific initiative dedicated to advancing our understanding of brain health. Our team is passionate about conducting rigorous research and disseminating knowledge that empowers individuals to make informed decisions for the well-being of their brains.
 
-## Our Mission
+## Our Objective
 
-At ToBrainHealth, our mission is clear: to explore, research, and educate. We are committed to uncovering the latest scientific insights into brain health and making this knowledge accessible to all. By understanding the intricacies of the brain and the impact of lifestyle on cognitive function, we aim to contribute to a brighter, healthier future for everyone.
+ToBrainHealth addresses the challenge of understanding and preserving brain health throughout the life course in an increasingly aging population. This scientific and technological problem is addressed by proposing a coordinated and multidisciplinary research project whose main objectives are:
++ To generate new data-driven hypotheses and XAI models that define brain health determinants from the extensive data collected by the BBHI so far.
++ To create new methods and tools for measuring, improving and predicting adherence to technology-based lifestyles interventions for the promotion of brain health.
+This project aims to achieve the following specific objectives:
++ Define and develop ML models to (1) generate new data-driven clinical hypotheses in the field of brain health, and (2) identify factors involved in adherence, predict adherence to lifestyles interventions, and get personalized recommended prevention measures for brain health promotion.
++ Define, develop and validate a DP model that uses multimodal data coming from smartphones to build digital physiological and behavioural biomarkers.
++ Provide trustworthy and explainable capabilities to ML models, putting a special emphasis on the ethical implications of this research for clinical practice, ensuring that the outcomes are interpretable by healthcare professionals.
++ Define and develop personalized gamification strategies for an enhanced user experience.
++ Define and implement a technology-based lifestyles intervention to assess adherence and validate the adherence prediction model and the influence of the clinical (recommended measures) and technological (tailored gamification strategies) personalisation methods and tools proposed.
++ Develop an accessible data repository for the scientific community to allow third-party institutions to collaborate and advance the knowledge of brain health.
 
 ## Who We Are
 
-Our team comprises a diverse group of neuroscientists, researchers, and experts in various fields related to brain health. We are dedicated to conducting groundbreaking studies, sharing our findings, and providing a platform for informed discussions.
+The project team is made up of researchers from the Biomedical Engineering and Telemedicine Centre of the Universidad Politécnica de Madrid (GBT-UPM) and Institute Guttmann (GUTT), a neuro- rehabilitation hospital and brain health institute. The collaboration between the participating groups began more than 15 years ago and has led to 10 national and international projects, 6 doctoral theses, more than 60 publications and the development of a tele-rehabilitation platform GNPT1 (Medical Device since 2014-IML9/10).
 
 ## News and Publications
 
@@ -43,4 +53,4 @@ Explore our scientific publications to delve deeper into our research and findin
 
 Join us in our pursuit of knowledge and better brain health. Together, we can contribute to a world where everyone has the tools and understanding to optimize brain function.
 
-[Get Involved](#)
+[Contact Us](mailto:info@tobrainhealth.es)
