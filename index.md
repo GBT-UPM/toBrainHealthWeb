@@ -4,11 +4,8 @@ title: ToBrainHealth
 header_type: hero
 subtitle: ToBrainHealth Project
 ---
-
-
-<img src="assets/logos/toBrainHealthLogo.png" alt="Logo GBT" width="187">
 <div style="float: left; margin-right: 10px;">
-  <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo">
+  <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo" width="187">
 </div>
 
 Welcome to ToBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
@@ -24,6 +21,7 @@ This project faces the scientific and technological challenge of understanding a
 ToBrainHealth addresses the challenge of understanding and preserving brain health throughout the life course in an increasingly aging population. This scientific and technological problem is addressed by proposing a coordinated and multidisciplinary research project whose main objectives are:
 + To generate new data-driven hypotheses and XAI models that define brain health determinants from the extensive data collected by the BBHI so far.
 + To create new methods and tools for measuring, improving and predicting adherence to technology-based lifestyles interventions for the promotion of brain health.
+
 This project aims to achieve the following specific objectives:
 + Define and develop ML models to (1) generate new data-driven clinical hypotheses in the field of brain health, and (2) identify factors involved in adherence, predict adherence to lifestyles interventions, and get personalized recommended prevention measures for brain health promotion.
 + Define, develop and validate a DP model that uses multimodal data coming from smartphones to build digital physiological and behavioural biomarkers.
