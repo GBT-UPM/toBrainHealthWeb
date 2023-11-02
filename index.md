@@ -5,14 +5,19 @@ header_type: hero
 subtitle: ToBrainHealth Project
 ---
 
- Welcome to ToBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
 
 <img src="assets/logos/toBrainHealthLogo.png" alt="Logo GBT" width="187">
-![Brain Health](https://gbt-upm.github.io/toBrainHealthWeb/assets/logos/toBrainHealthLogo.png)
+<div style="float: left; margin-right: 10px;">
+  <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo">
+</div>
+
+Welcome to ToBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
+
 
 ## About ToBrainHealth
 
-Welcome to ToBrainHealth, a scientific initiative dedicated to advancing our understanding of brain health. Our team is passionate about conducting rigorous research and disseminating knowledge that empowers individuals to make informed decisions for the well-being of their brains.
+This project faces the scientific and technological challenge of understanding and maintaining brain health in an increasingly aging population. This challenge must be approached from the confluence of complementary areas, such as biomedical engineering and neuroscience. The ambition of the project and the mandatory multidisciplinary approach require a coordinated project involving researchers in biomedical engineering working on data analysis and explainable artificial intelligence (XAI), enhanced user experience, and technology-based multi-domain interventions, in very close collaboration with clinical teams comprised of researchers working on neuroscience, cognition, brain health and brain resilience.
+
 
 ## Our Objective
 
