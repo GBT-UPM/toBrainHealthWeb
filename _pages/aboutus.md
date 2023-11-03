@@ -13,10 +13,10 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 3.5%;">
-    <img src="http://www.gbt.tfo.upm.es/wp-content/uploads/2022/12/gbt-2.png" alt="Logo GBT" width=65%>
+    <img src="../assets/logos/GBT_SIMPLE.png" alt="Logo GBT" width=65%>
   </div>
   <div style="flex: 50%; padding: 5%;">
-    <img src="https://barcelona.guttmann.com/themes/custom/bhi/logo.svg" alt="Logo Institut Guttmann" width=100%>
+    <img src="../assets/logos/logo-guttmann.svg" alt="Logo Institut Guttmann" width=100%>
   </div>
 </div>
 
