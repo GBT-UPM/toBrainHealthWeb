@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: indexcategory
 title: "About Us"
-#include_collection: people
+include_collection: people
 permalink: /aboutus
 show_breadcrumb: false
 ---
@@ -20,25 +20,6 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 </div>
 
 ## People
-
-<script>
-  var order = [
-    {% for item_id in site.people.orden %}
-      "{{ item_id }}",
-    {% endfor %}
-  ];
-
-  console.log("Orden de la colección:", order);
-  
-  var colec =[ 
-    {% for item_id in site.people %}
-      "{{ item_id }}",
-    {% endfor %}
-  ];
-
-  console.log("Coleccion: ", colec)
-
-</script>
 
 <div class="card-deck">
 {% for author in site.people.orden %}
