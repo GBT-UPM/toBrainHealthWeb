@@ -22,7 +22,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 <div class="card-container">
 ## People
   {% for author in site.people %}
-<div class="card">
+<div class="card mb-4">
   <div class="row">
     <div class="col-md-6">
       <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
@@ -30,7 +30,8 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   <div class="col-md-6">
     <div class="card-body">
       <h5 class="card-title">{{ author.title }}</h5>
-      <p class="card-text">{{ author.subtitle }}</p>
+      <p class="card-subtitle">{{ author.subtitle }}</p>
+      <p class="card-text">{{ author.description }}
       <div class="collapse" id="collapse{{ forloop.index }}">
         <p>{{ author.content }}</p>
       </div>
