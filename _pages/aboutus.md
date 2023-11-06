@@ -30,7 +30,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   <div class="col-md-6">
     <div class="card-body">
       <h5 class="card-title">{{ author.title }}</h5>
-      <p class="card-subtitle">{{ author.subtitle }}</p>
+      <h6 class="card-subtitle">{{ author.subtitle }}</h6>
       <p class="card-text">{{ author.description }}</p>
       <div class="collapse" id="collapse{{ forloop.index }}">
         <p>{{ author.content }}</p>
