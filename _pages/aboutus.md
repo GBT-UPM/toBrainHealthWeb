@@ -20,20 +20,22 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 </div>
 
 ## People
-<div class="card-container">
+<div class="row">
   {% for author in site.people %}
+<div class="col-md-4">
 <div class="card">
   <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
   <div class="card-body">
     <h5 class="card-title">{{ author.title }}</h5>
-    <p class="card-text">{{ author.description }}</p>
+    <p class="card-text">{{ author.subtitle }}</p>
     <div class="collapse" id="collapse{{ forloop.index }}">
-      <p>Contenido adicional que se mostrará al hacer clic en "Leer más".</p>
+      <p>{{ author.content }}</p>
     </div>
     <a class="btn btn-primary" data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
       Leer más
     </a>
   </div>
+</div>
 </div>
  {% endfor %}
 </div>
