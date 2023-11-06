@@ -24,8 +24,8 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 <ul>
   {% for author in people %}
     <li>
-      <h2>{{ author.name }}</h2>
-      <h3>{{ author.position }}</h3>
+      <h2>{{ author.title }}</h2>
+      <h3>{{ author.subtitle }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
