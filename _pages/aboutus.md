@@ -3,7 +3,7 @@ layout: indexcategory
 title: "About Us"
 #include_collection: people
 permalink: /aboutus
-#show_breadcrumb: false
+show_breadcrumb: false
 ---
 
 ## About Us
