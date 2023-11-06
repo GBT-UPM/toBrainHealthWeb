@@ -15,9 +15,10 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 <img src="assets/logos/GBT_SIMPLE.png" alt="Logo GBT" width=65%>
 <div style="display: flex;">
   <div style="flex: 50%; padding: 3.5%;">
-    <img src="assets/logos/GBT_SIMPLE.png" alt="Logo GBT" width=65%>
+    <img src="assets/logos/GBT_SIMPLE.png" alt="Texto alternativo" width="65%">
   </div>
   <div style="flex: 50%; padding: 5%;">
+    <img src="assets/logos/logo-guttmann.svg" alt="Texto alternativo" width="100%">
     <img src="assets/logos/logo-guttmann.svg" alt="Logo Institut Guttmann" width=100%>
   </div>
 </div>
