@@ -21,6 +21,16 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 ## People
 
+<script>
+  var order = [
+    {% for item_id in site.data.orden_coleccion %}
+      "{{ item_id }}",
+    {% endfor %}
+  ];
+
+  console.log("Orden de la colección:", order);
+</script>
+
 <div class="card-deck">
 {% for author in site.people.orden %}
 {% assign item = site.mi_coleccion | where: 'id', item_id | first %}
