@@ -140,7 +140,7 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
   people:
-    output: true
+    output: false #Cambiar para que cada persona tenga su web
     permalink: /people/:name
     order: Enrique.md
 
