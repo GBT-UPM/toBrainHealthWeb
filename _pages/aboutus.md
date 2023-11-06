@@ -25,8 +25,8 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   {% for author in site.people %}
     <div class="card">
       <img src="{{author.image}}">
-      <h1>{{ author.title }}</h2>
-      <h2>{{ author.subtitle }}</h3>
+      <h2>{{ author.title }}</h2>
+      <h3>{{ author.subtitle }}</h3>
       <p>{{ author.content | markdownify }}</p>
     </div>
   {% endfor %}
