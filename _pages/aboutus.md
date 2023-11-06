@@ -22,7 +22,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 ## People
 
 <div class="card-deck">
-{% for author in site.people %}
+{% for author in site.people.orden %}
 {% assign item = site.mi_coleccion | where: 'id', item_id | first %}
   <div class="card mb-4">
     <div class="row">
