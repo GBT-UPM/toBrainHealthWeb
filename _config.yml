@@ -148,7 +148,6 @@ collections:
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
   -
-    safe: false
     scope:
       path: ""
     values:
