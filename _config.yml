@@ -144,6 +144,9 @@ collections:
     #permalink: /people/:name
     order: Enrique.md
            Solana.md
+           Gabriele.md
+           Alejandro.md
+           Alba.md
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/

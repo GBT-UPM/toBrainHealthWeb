@@ -19,28 +19,29 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
 </div>
 
-<div class="card-container">
 ## People
-  {% for author in site.people %}
-<div class="card mb-4">
-  <div class="row">
-    <div class="col-md-6">
-      <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
-    </div>
-  <div class="col-md-6">
-    <div class="card-body">
-      <h5 class="card-title">{{ author.title }}</h5>
-      <h6 class="card-subtitle">{{ author.subtitle }}</h6>
-      <p class="card-text">{{ author.description }}</p>
-      <div class="collapse" id="collapse{{ forloop.index }}">
-        <p>{{ author.content }}</p>
+
+<div class="card-container">
+{% for author in site.people %}
+  <div class="card mb-4">
+    <div class="row">
+      <div class="col-md-6">
+        <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
       </div>
-      <a class="btn btn-primary" data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
-        Read more
-      </a>
+    <div class="col-md-6">
+      <div class="card-body">
+        <h5 class="card-title">{{ author.title }}</h5>
+        <h6 class="card-subtitle">{{ author.subtitle }}</h6>
+        <p class="card-text">{{ author.description }}</p>
+        <div class="collapse" id="collapse{{ forloop.index }}">
+          <p>{{ author.content }}</p>
+        </div>
+        <a class="btn btn-primary" data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
+          Read more
+        </a>
+      </div>
     </div>
   </div>
-</div>
  {% endfor %}
 </div>
 
