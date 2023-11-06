@@ -3,7 +3,7 @@ layout: indexcategory
 title: "About Us"
 include_collection: people
 permalink: /aboutus
-show_breadcrumb: true
+show_breadcrumb: false
 ---
 
 ## About Us
@@ -19,3 +19,14 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
 </div>
 
+<h1>Staff</h1>
+
+<ul>
+  {% for author in people %}
+    <li>
+      <h2>{{ author.name }}</h2>
+      <h3>{{ author.position }}</h3>
+      <p>{{ author.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
