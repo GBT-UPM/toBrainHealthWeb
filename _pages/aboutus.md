@@ -19,10 +19,9 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
 </div>
 
+<div class="card-container">
 ## People
-<div class="row">
   {% for author in site.people %}
-<div class="col-md-4">
 <div class="card">
   <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
   <div class="card-body">
@@ -35,7 +34,6 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
       Leer más
     </a>
   </div>
-</div>
 </div>
  {% endfor %}
 </div>
