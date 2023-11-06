@@ -23,17 +23,26 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 <script>
   var order = [
-    {% for item_id in site.data.orden_coleccion %}
+    {% for item_id in site.people.orden %}
       "{{ item_id }}",
     {% endfor %}
   ];
 
   console.log("Orden de la colección:", order);
+  
+  var colec =[ 
+    {% for item_id in site.people.orden %}
+      "{{ item_id }}",
+    {% endfor %}
+  ];
+
+  console.log("Coleccion: ", colec)
+
 </script>
 
 <div class="card-deck">
 {% for author in site.people.orden %}
-{% assign item = site.mi_coleccion | where: 'id', item_id | first %}
+{% assign item = site.people | where: 'id', item_id | first %}
   <div class="card mb-4">
     <div class="row">
       <div class="col-md-6">
