@@ -31,7 +31,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   console.log("Orden de la colección:", order);
   
   var colec =[ 
-    {% for item_id in site.people.orden %}
+    {% for item_id in site.people %}
       "{{ item_id }}",
     {% endfor %}
   ];
