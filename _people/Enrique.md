@@ -5,7 +5,6 @@ image: http://www.gbt.tfo.upm.es/wp-content/uploads/2017/07/EnriqueJ.GmezAguiler
 
 categories: [PI]
 ---
-![Enrique J. Gómez Aguilera](http://www.gbt.tfo.upm.es/wp-content/uploads/2017/07/EnriqueJ.GmezAguilera_presidentedelaSociedadEspaoladeIngenieraBiomdica.jpg)
 
 ## Who’s Enrique?
 

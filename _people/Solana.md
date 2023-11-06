@@ -5,7 +5,6 @@ image: assets/images/people/guttmann/Javier Solana Sánchez.jpg
 
 categories: [PI]
 ---
-![Javier Solana Sánchez](assets/images/people/guttmann/Javier Solana Sánchez.jpg)
 
 ## Who’s Javier?
 
