@@ -1,5 +1,5 @@
 ---
-layout: indexcategory
+layout: default
 title: "About Us"
 #include_collection: people
 permalink: /aboutus
