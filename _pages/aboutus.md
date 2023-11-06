@@ -21,12 +21,13 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 ## People
 
-<ul>
+<div class="card-container">
   {% for author in site.people %}
-    <li>
+    <div class="card">
+      <img src="{{author.image}}">
       <h2>{{ author.title }}</h2>
       <h3>{{ author.subtitle }}</h3>
       <p>{{ author.content | markdownify }}</p>
-    </li>
+    </div>
   {% endfor %}
-</ul>
+</div>

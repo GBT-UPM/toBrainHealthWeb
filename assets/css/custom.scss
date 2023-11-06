@@ -2,7 +2,7 @@
 ---
 @charset "utf-8";
 
-.justify {
+body {
     text-align: justify;
 }
 // Your custom css /scss here
@@ -40,3 +40,29 @@ footer .container {
     text-align: center;
     margin-top: 10px;
 }
+
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Espacio entre las tarjetas */
+  }
+  
+  .card {
+    width: 30%; /* Ancho de cada tarjeta */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card h2 {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    color: #666;
+  }
