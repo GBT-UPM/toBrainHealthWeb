@@ -133,9 +133,9 @@ chulapa-skin:
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
-paginate: 4
-paginate_path: "/blog/page:num/"
-paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
+#paginate: 4
+#paginate_path: "/blog/page:num/"
+#paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
@@ -143,6 +143,7 @@ collections:
     output: false #Cambiar para que cada persona tenga su web
     #permalink: /people/:name
     order: Enrique.md
+           Solana.md
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
@@ -179,16 +180,16 @@ defaults:
   -
     scope:
       path: ""
-      type: "cheatsheet"
+      type: "people"
     values:
       header_type       : "hero"
       show_bottomnavs   : true
       show_sociallinks  : true
       include_on_search : true
-      show_breadcrumb   : true
+      show_breadcrumb   : false
       breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
+        - label: People
+          url: /people
 
 
 # XX. Other settings - no need to modify
