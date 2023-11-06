@@ -36,7 +36,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         <p>{{ author.content }}</p>
       </div>
       <a class="btn btn-primary" data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
-        Leer más
+        Read more
       </a>
     </div>
   </div>
