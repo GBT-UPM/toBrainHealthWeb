@@ -1,5 +1,5 @@
 ---
-layout: indexcategory
+layout: default
 title: "About Us"
 #include_collection: people
 permalink: /aboutus
@@ -19,7 +19,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
 </div>
 
-<h1>Staff</h1>
+## People
 
 <ul>
   {% for author in site.people %}

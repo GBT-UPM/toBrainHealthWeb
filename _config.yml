@@ -173,7 +173,7 @@ defaults:
       show_tags         : true
       show_categories   : true
       show_author       : true
-      show_breadcrumb   : true
+      show_breadcrumb   : false
       breadcrumb_list   :
         - label: Blog
           url: /blog/
@@ -187,9 +187,9 @@ defaults:
       show_sociallinks  : true
       include_on_search : true
       show_breadcrumb   : false
-      breadcrumb_list   :
-        - label: People
-          url: /people
+      #breadcrumb_list   :
+      #  - label: People
+      #    url: /people
 
 
 # XX. Other settings - no need to modify
