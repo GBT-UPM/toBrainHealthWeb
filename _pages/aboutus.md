@@ -22,7 +22,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 ## People
 
 <div class="card-container">
-{% for author in site.people %}
+{% for author in site.people.order %}
   <div class="card mb-4">
     <div class="row">
       <div class="col-md-6">

@@ -142,12 +142,11 @@ collections:
   people:
     output: false #Cambiar para que cada persona tenga su web
     #permalink: /people/:name
-    order: 
-      -Enrique.md
-      -Solana.md
-      -Gabriele.md
-      -Alejandro.md
-      -Alba.md
+    order: Enrique.md
+           Solana.md
+           Gabriele.md
+           Alejandro.md
+           Alba.md
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
