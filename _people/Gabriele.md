@@ -3,7 +3,7 @@ position: 3
 title: Gabriele Cattaneo
 subtitle: PI of toBrainHealth
 image: assets/images/people/guttmann/Gabriele Cattaneo.jpg
-instution: Guttmann
+institution: Guttmann
 
 categories: [PI]
 ---
