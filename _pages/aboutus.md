@@ -20,12 +20,12 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 {% assign alldocs = site.people | sort: "position" %}  
 
 <div style="display: flex;">
-  <div style="flex: 50%;padding:2%">
+  <div style="flex: 50%;padding-right:3%">
 
 {% for author in alldocs %}
   {% if author.institution == "GBT" %}
   <div class="row mb-4">
-    <div class="card" style="padding: 1px">
+    <div class="card">
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
@@ -42,7 +42,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
     {% endif %}
  {% endfor %}
   </div>
-    <div style="flex: 50%;padding:2%">
+    <div style="flex: 50%;padding-left:3%">
 
 {% for author in alldocs %}
   {% if author.institution == "Guttmann" %}
