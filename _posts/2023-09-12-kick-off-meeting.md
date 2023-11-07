@@ -5,17 +5,11 @@ header_img: assets/images/news/Kickoff.jpg
 
 author:
   name: Diego Moreno Blanco
-  avatar: https://github.com/octocat.png
-  location: Pennsylvania, United States
+  avatar: assets/images/people/Unknown_person.jpg
+  location: Madrid, España
   links:                
-    - url: https://github.com/github/
-      icon: "fab fa-github"
-    - url: https://twitter.com/github
-      icon: fab fa-twitter
-    - url: https://github.com/facebook
-      icon: "fab fa-facebook"
-    - url: https://www.linkedin.com
-      icon: "fab fa-linkedin"
+    - url: https://orcid.org/0000-0003-1714-4353
+      icon: "fab fa-orcid"
 ---
 
 First meeting of the whole team! 
