@@ -60,6 +60,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         </a>
       </div>
     </div>
+    </div>
     {% endif %}
  {% endfor %}
   </div>
