@@ -3,6 +3,7 @@ position: 5
 title: Alejandro García Rudolph
 subtitle: Member of the research team of toBrainHealth
 image: assets/images/people/guttmann/alejandro garcía rudolph.jpg
+instution: Guttmann
 
 categories: [PI]
 ---

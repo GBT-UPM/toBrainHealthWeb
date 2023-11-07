@@ -3,6 +3,7 @@ position: 2
 title: Javier Solana Sánchez
 subtitle: PI of toBrainHealth
 image: assets/images/people/guttmann/Javier Solana Sánchez.jpg
+instution: Guttmann
 
 categories: [PI]
 ---

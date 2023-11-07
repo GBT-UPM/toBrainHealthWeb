@@ -21,15 +21,15 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 
 
+{% assign alldocs = site.people | sort: "position" %}  
 
-<div>
-{% for author in site.people %}
-  <div class="card">
-    <div class="row">
-      <div class="col-md-6">
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 3.5%;">
+
+{% for author in alldocs %}
+  {% if author.institution == "GBT" %}
+    <div class="card">
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
-      </div>
-    <div class="col-md-6">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
         <h6 class="card-subtitle">{{ author.subtitle }}</h6>
@@ -42,7 +42,28 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         </a>
       </div>
     </div>
-  </div>
-</div>
+    {% endif %}
  {% endfor %}
+  </div>
+    <div style="flex: 50%; padding: 3.5%;">
+
+{% for author in alldocs %}
+  {% if author.institution == "Guttmann" %}
+    <div class="card">
+        <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
+      <div class="card-body">
+        <h5 class="card-title">{{ author.title }}</h5>
+        <h6 class="card-subtitle">{{ author.subtitle }}</h6>
+        <p class="card-text">{{ author.description }}</p>
+        <div class="collapse" id="collapse{{ forloop.index }}">
+          <p>{{ author.content }}</p>
+        </div>
+        <a class="btn btn-primary" data-toggle="collapse" href="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
+          Read more
+        </a>
+      </div>
+    </div>
+    {% endif %}
+ {% endfor %}
+  </div>
 </div>
