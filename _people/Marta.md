@@ -2,7 +2,7 @@
 position: 7
 title: Marta Álvarez Ambrosio
 subtitle: Member of the research team of toBrainHealth
-image: assets/images/people/Unknown_person.jpg
+image: assets/images/people/gbt/Marta.jpg
 institution: GBT
 
 ---
