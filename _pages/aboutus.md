@@ -1,9 +1,7 @@
 ---
-layout: indexcategory
+layout: default
 title: "About Us"
-include_collection: people
 permalink: /aboutus
-show_breadcrumb: false
 ---
 
 ## About Us
@@ -45,6 +43,16 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
  {% endfor %}
 </div>
+
+{% assign sort =  page.index_sort | default: 'name' %}
+
+  {% if page.index_sort_asc %}
+  {% assign alldocs = alldocs | sort: "{{sort}}" %}
+  {% else %}
+  {% assign alldocs = alldocs | sort: "{{sort}}" | reverse  %}
+  {% endif %}
+  
+  {% assign end = page.index_items | default: 10   %}
 
 <!--
 <div class="card-container">
