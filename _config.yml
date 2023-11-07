@@ -19,12 +19,12 @@ words_per_minute        :     #default[200]
 timezone                : Europe/Madrid    #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # SEO
-og_image                :     #default[author.avatar (see below)] or [github-avatar]
-twitter_site            :     #Avoid @
-author:
-  name                  :  GBT ETSIT UPM   # Name Surname Company
-  avatar                :  https://github.com/gbt-upm.png   # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
-  location              :  "Madrid, Spain"   # New York, USA 
+#og_image                :     #default[author.avatar (see below)] or [github-avatar]
+#twitter_site            :     #Avoid @
+#author:
+#  name                  :  GBT ETSIT UPM   # Name Surname Company
+#  avatar                :  https://github.com/gbt-upm.png   # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
+#  location              :  "Madrid, Spain"   # New York, USA 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
 #      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
