@@ -25,8 +25,8 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 {% for author in alldocs %}
   {% if author.institution == "GBT" %}
   <div class="row mb-4">
-    <div class="card" style="min-width: 100%">
-        <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
+    <div class="card">
+        <img src="{{ author.image }}" class="card-img" alt="Imagen de la Tarjeta" style="margin-top:10px">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
         <p class="card-text">{{ author.subtitle }}</p>
@@ -47,8 +47,8 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 {% for author in alldocs %}
   {% if author.institution == "Guttmann" %}
   <div class="row mb-4">
-    <div class="card" style="min-width: 100%">
-        <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
+    <div class="card">
+        <img src="{{ author.image }}" class="card-img" alt="Imagen de la Tarjeta" style="margin-top:10px">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
         <p class="card-text">{{ author.subtitle }}</p>
