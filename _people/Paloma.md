@@ -4,6 +4,7 @@ title: Paloma Chausa Fernández
 subtitle: Member of the research team of toBrainHealth
 image: assets/images/people/Unknown_person.jpg
 institution: GBT
+orcid_url: 
 ---
 
 

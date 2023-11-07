@@ -4,6 +4,7 @@ title: Patricia Sánchez González
 subtitle: PI of toBrainHealth
 image: assets/images/people/gbt/Paty.jpg
 institution: GBT
+orcid_url: https://orcid.org/0000-0001-9871-0884
 
 categories: [PI]
 ---

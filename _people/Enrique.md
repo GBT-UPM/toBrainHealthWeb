@@ -4,6 +4,7 @@ title: Enrique J. Gómez Aguilera
 subtitle: PI of toBrainHealth
 image: assets/images/people/gbt/Enrique.jpg
 institution: GBT
+orcid_url: https://orcid.org/0000-0001-6998-1407
 
 categories: [PI]
 ---
