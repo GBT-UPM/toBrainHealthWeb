@@ -1,5 +1,5 @@
 ---
-position: 2
+position: 1
 title: Javier Solana Sánchez
 subtitle: PI of toBrainHealth
 image: assets/images/people/guttmann/Javier Solana Sánchez.jpg

@@ -1,5 +1,5 @@
 ---
-position: 6
+position: 4
 title: Alba Roca Ventura
 subtitle: Member of the research team of toBrainHealth
 image: assets/images/people/guttmann/Alba Roca Ventura.jpg

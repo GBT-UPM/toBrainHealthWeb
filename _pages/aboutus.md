@@ -17,10 +17,6 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
   </div>
 </div>
 
-## People
-
-
-
 {% assign alldocs = site.people | sort: "position" %}  
 
 <div style="display: flex;">
@@ -32,8 +28,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
-        <h6 class="card-subtitle">{{ author.subtitle }}</h6>
-        <p class="card-text">{{ author.description }}</p>
+        <p class="card-text">{{ author.subtitle }}</p>
         <div class="collapse" id="collapse{{ forloop.index }}">
           <p>{{ author.content }}</p>
         </div>
