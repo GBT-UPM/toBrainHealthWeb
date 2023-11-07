@@ -19,11 +19,11 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 ## People
 
-{% assign alldocs = site.people | sort: "first" %}  
+{% assign alldocs = site.people | sort: "site.people.order" %}  
 
 <div class="card-deck">
 {% for author in alldocs %}
-  <div class="card mb-4">
+  <div class="card">
     <div class="row">
       <div class="col-md-6">
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
