@@ -44,6 +44,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
       </div>
     </div>
   </div>
+</div>
  {% endfor %}
 </div>
 
