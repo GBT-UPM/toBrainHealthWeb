@@ -21,10 +21,9 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 
 
-{% assign alldocs = site.people | sort: "position" %}  
 
 <div>
-{% for author in alldocs %}
+{% for author in site.people %}
   <div class="card">
     <div class="row">
       <div class="col-md-6">
@@ -47,17 +46,3 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 </div>
  {% endfor %}
 </div>
-
-
-
-<!--
-<div class="card-container">
-  {% for author in site.people %}
-    <div class="card">
-      <img src="{{author.image}}">
-      <h2>{{ author.title }}</h2>
-      <h3>{{ author.subtitle }}</h3>
-      <p>{{ author.content | markdownify }}</p>
-    </div>
-  {% endfor %}
-</div>-->
