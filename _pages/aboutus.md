@@ -29,7 +29,9 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         <img src="{{ author.image }}" class="card-img" alt="Imagen de la Tarjeta" style="margin-top:10px">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}
-          <a href="{{ author.orcid_url }}" target="_blank"><i class="fa-brands fa-orcid"></i></a>
+          {% if author.orcid_url != "" %}
+            <a href="{{ author.orcid_url }}" target="_blank"><i class="fa-brands fa-orcid"></i></a>
+          {% endif %}
         </h5>
         <p class="card-text">{{ author.subtitle }}</p>
         <div class="collapse" id="collapse{{ forloop.index }}">
@@ -53,7 +55,9 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
         <img src="{{ author.image }}" class="card-img" alt="Imagen de la Tarjeta" style="margin-top:10px">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}
-          <a href="{{ author.orcid_url }}" target="_blank"><i class="fa-brands fa-orcid"></i></a>
+          {% if author.orcid_url != "" %}
+            <a href="{{ author.orcid_url }}" target="_blank"><i class="fa-brands fa-orcid"></i></a>
+          {% endif %}
         </h5>
         <p class="card-text">{{ author.subtitle }}</p>
         <div class="collapse" id="collapse{{ forloop.index }}">
