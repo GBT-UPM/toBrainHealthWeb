@@ -24,6 +24,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 {% for author in alldocs %}
   {% if author.institution == "GBT" %}
+  <div class="row">
     <div class="card">
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
       <div class="card-body">
@@ -36,6 +37,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
           Read more
         </a>
       </div>
+    </div>
     </div>
     {% endif %}
  {% endfor %}
