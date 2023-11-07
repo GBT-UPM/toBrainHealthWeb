@@ -20,7 +20,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 {% assign alldocs = site.people | sort: "position" %}  
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding: 3.5%;">
+  <div style="flex: 50%;">
 
 {% for author in alldocs %}
   {% if author.institution == "GBT" %}
@@ -42,7 +42,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
     {% endif %}
  {% endfor %}
   </div>
-    <div style="flex: 50%; padding: 3.5%;">
+    <div style="flex: 50%;">
 
 {% for author in alldocs %}
   {% if author.institution == "Guttmann" %}
