@@ -8,8 +8,6 @@ institution: GBT
 categories: [PI]
 ---
 
-## Who’s Enrique?
-
 **Enrique J. Gómez Aguilera** joined the field of Biomedical Engineering (BME) when he began his studies in Telecommunications Engineering at the ETSI Telecommunications Engineering of the Universidad Politécnica de Madrid (UPM). His first formal activity in this discipline was carried out in 1983 with the creation and direction of the students "IEEE Bioengineering Group" of the IEEE chapter of ETSIT. In 1985 he defended his master's thesis in the field of "Ambulatory monitoring and evaluation of motor response patterns in Parkinson's disease" and in 1988 his Doctoral Thesis entitled "A new methodology for the metabolic control of diabetes".
 Since then,all his teaching and research activity has been carried out in the field of Biomedical Engineering. "Visiting Fellow" at "City Univ.-Measurement and Information Institute" (London, 1991), Visitingprofessor at Univ. of Patras (Greece, 1989-1994), Tech. Univ. Of Sczcecin (Poland, 1998-2001) and Univ. of Athens (Greece, since 1990). 
 - He is currently Professor of Biomedical Engineering at UPM, Head of the Department of PT and Biomedical Engineering and Director of the GBT Research Center. Senior Researcher at the National Center for Research in Bioengineering, Biomaterial and Nanomedicine of the National Institute of Health and the CTB of the UPM.
