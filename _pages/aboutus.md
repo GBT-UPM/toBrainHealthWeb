@@ -3,6 +3,8 @@ layout: indexcategory
 title: "About Us"
 include_collection: people
 permalink: /aboutus
+index_sort: order
+index_sort_asc: True
 ---
 
 ## About Us
