@@ -14,4 +14,4 @@ author:
 
 First meeting of the whole team! 
 
-<img src="assets/images/news/Kickoff.jpg" alt="Meeting Foto">
+![Meeting Foto](../../../assets/images/news/Kickoff.jpg)
