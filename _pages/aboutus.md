@@ -1,10 +1,7 @@
 ---
-layout: indexcategory
+layout: default
 title: "About Us"
-include_collection: people
 permalink: /aboutus
-index_sort: order
-index_sort_asc: True
 ---
 
 ## About Us
@@ -24,7 +21,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 
 
-{% assign alldocs = site.people | sort: "title" %}  
+{% assign alldocs = site.people | sort: "position" %}  
 
 <div class="card-deck">
 {% for author in alldocs %}
