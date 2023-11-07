@@ -19,3 +19,5 @@ author:
 ---
 
 First meeting of the whole team! 
+
+![Meeting Foto](assets/images/news/Kickoff.jpg)
