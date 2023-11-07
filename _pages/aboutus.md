@@ -19,9 +19,10 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 ## People
 
+{% assign alldocs = site.people | sort: "orden" %}  
+
 <div class="card-deck">
-{% for author in site.people.orden %}
-{% assign item = site.people | where: 'id', item_id | first %}
+{% for author in alldocs %}
   <div class="card mb-4">
     <div class="row">
       <div class="col-md-6">
@@ -44,15 +45,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
  {% endfor %}
 </div>
 
-{% assign sort =  page.index_sort | default: 'name' %}
 
-  {% if page.index_sort_asc %}
-  {% assign alldocs = alldocs | sort: "{{sort}}" %}
-  {% else %}
-  {% assign alldocs = alldocs | sort: "{{sort}}" | reverse  %}
-  {% endif %}
-  
-  {% assign end = page.index_items | default: 10   %}
 
 <!--
 <div class="card-container">
