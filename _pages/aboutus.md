@@ -23,7 +23,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 {% assign alldocs = site.people | sort: "position" %}  
 
-<div class="card-deck">
+<div>
 {% for author in alldocs %}
   <div class="card">
     <div class="row">
