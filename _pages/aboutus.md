@@ -19,7 +19,9 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 
 ## People
 
-{% assign alldocs = site.people | sort: "site.people.order" %}  
+
+
+{% assign alldocs = site.people | sort: "" %}  
 
 <div class="card-deck">
 {% for author in alldocs %}
