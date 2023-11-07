@@ -25,7 +25,7 @@ Welcome to ToBrainHealth, where a collaboration between the experts at Guttmann 
 {% for author in alldocs %}
   {% if author.institution == "GBT" %}
   <div class="row mb-4">
-    <div class="card">
+    <div class="card" style="padding: 1px">
         <img src="{{ author.image }}" class="card-img-top" alt="Imagen de la Tarjeta">
       <div class="card-body">
         <h5 class="card-title">{{ author.title }}</h5>
