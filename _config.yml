@@ -98,6 +98,8 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  assets/images/favicon.png # An small image, try 30x30px
   nav:
+  - title   : The project
+    url     : /project
   - title   : News # Label
     url     : /blog/ # url	
   - title   : About us
@@ -157,8 +159,8 @@ defaults:
       show_date         : true
       show_related      : true
       show_bottomnavs   : true
-      show_sociallinks  : true
-      show_comments     : true
+      show_sociallinks  : false
+      show_comments     : false
       show_tags         : true
       show_categories   : true
       show_author       : false
@@ -173,8 +175,8 @@ defaults:
     values:
       header_type       : "hero"
       show_bottomnavs   : true
-      show_sociallinks  : true
-      include_on_search : true
+      show_sociallinks  : false
+      include_on_search : false
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: People
