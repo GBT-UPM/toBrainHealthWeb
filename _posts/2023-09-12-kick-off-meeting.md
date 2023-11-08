@@ -1,8 +1,8 @@
 ---
 title: Kickoff meeting!
 tags: [meeting, kickoff]
-header_img: assets/images/news/Kickoff/Kickoff-header.jpg
-og_image: assets/images/logos/Kickoff/Kickoff.jpg
+#header_img: assets/images/news/Kickoff/Kickoff-header.jpg
+#og_image: assets/images/news/Kickoff/Kickoff.jpg
 
 ---
 
