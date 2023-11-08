@@ -1,24 +1,24 @@
 ---
 layout: default
-title: ToBrainHealth
+title: toBrainHealth
 header_type: hero
-subtitle: ToBrainHealth Project
+subtitle: toBrainHealth Project
 ---
 <div style="float: left; margin-right: 10px;">
   <img src="assets/logos/toBrainHealthLogo.png" alt="Texto alternativo" width="187">
 </div>
 
-Welcome to ToBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
+Welcome to toBrainHealth: Towards a personalized intervention model for increasing adherence and promoting Brain Health
 
 
-## About ToBrainHealth
+## About toBrainHealth
 
 This project faces the scientific and technological challenge of understanding and maintaining brain health in an increasingly aging population. This challenge must be approached from the confluence of complementary areas, such as biomedical engineering and neuroscience. The ambition of the project and the mandatory multidisciplinary approach require a coordinated project involving researchers in biomedical engineering working on data analysis and explainable artificial intelligence (XAI), enhanced user experience, and technology-based multi-domain interventions, in very close collaboration with clinical teams comprised of researchers working on neuroscience, cognition, brain health and brain resilience.
 
 
 ## Our Objective
 
-ToBrainHealth addresses the challenge of understanding and preserving brain health throughout the life course in an increasingly aging population. This scientific and technological problem is addressed by proposing a coordinated and multidisciplinary research project whose main objectives are:
+toBrainHealth addresses the challenge of understanding and preserving brain health throughout the life course in an increasingly aging population. This scientific and technological problem is addressed by proposing a coordinated and multidisciplinary research project whose main objectives are:
 + To generate new data-driven hypotheses and XAI models that define brain health determinants from the extensive data collected by the BBHI so far.
 + To create new methods and tools for measuring, improving and predicting adherence to technology-based lifestyles interventions for the promotion of brain health.
 
@@ -52,7 +52,7 @@ Explore our scientific publications to delve deeper into our research and findin
 - [Title of Publication 2](#)
 - [Title of Publication 3](#)
 
-## Join the ToBrainHealth Community
+## Join the toBrainHealth Community
 
 Join us in our pursuit of knowledge and better brain health. Together, we can contribute to a world where everyone has the tools and understanding to optimize brain function.
 
