@@ -2,6 +2,7 @@
 title: Kickoff meeting!
 tags: [meeting, kickoff]
 header_img: assets/images/news/Kickoff.jpg
+og_image: assets/images/logos/logo-agencia.jpg
 
 ---
 
