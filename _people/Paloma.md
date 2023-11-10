@@ -4,7 +4,7 @@ title: Paloma Chausa Fernández
 subtitle: PhD Student
 image: assets/images/people/Unknown_person.jpg
 institution: GBT
-orcid_url: 
+orcid_url: https://orcid.org/0000-0002-6740-657X
 ---
 
 

@@ -38,20 +38,6 @@ The project team is made up of researchers from the Biomedical Engineering and T
 
 Stay updated with the latest developments in the field of brain health through our curated collection of news articles, research papers, and publications. Our commitment to scientific rigor ensures that the information you find here is reliable and up-to-date.
 
-### Recent News
-
-- [Title of Recent News Article 1](#)
-- [Title of Recent News Article 2](#)
-- [Title of Recent News Article 3](#)
-
-### Publications
-
-Explore our scientific publications to delve deeper into our research and findings. Our publications encompass a wide range of topics related to brain health.
-
-- [Title of Publication 1](#)
-- [Title of Publication 2](#)
-- [Title of Publication 3](#)
-
 ## Join the toBrainHealth Community
 
 Join us in our pursuit of knowledge and better brain health. Together, we can contribute to a world where everyone has the tools and understanding to optimize brain function.
