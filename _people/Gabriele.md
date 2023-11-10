@@ -1,7 +1,7 @@
 ---
 position: 2
 title: Gabriele Cattaneo
-subtitle: PI of toBrainHealth
+subtitle: Principal Investigator
 image: assets/images/people/guttmann/Gabriele Cattaneo.jpg
 institution: Guttmann
 orcid_url: https://orcid.org/0000-0002-7411-6829

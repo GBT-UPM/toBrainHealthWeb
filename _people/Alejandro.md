@@ -1,7 +1,7 @@
 ---
 position: 3
 title: Alejandro García Rudolph
-subtitle: Member of the research team of toBrainHealth
+subtitle: Member of the research team
 image: assets/images/people/guttmann/alejandro garcía rudolph.jpg
 institution: Guttmann
 orcid_url: https://orcid.org/0000-0003-0853-8334

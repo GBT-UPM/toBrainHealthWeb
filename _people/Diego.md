@@ -1,7 +1,7 @@
 ---
 position: 5
 title: Diego Moreno Blanco
-subtitle: Member of the work team of toBrainHealth
+subtitle: Member of the work team
 image: assets/images/people/Unknown_person.jpg
 institution: GBT
 orcid_url: https://orcid.org/0000-0003-1714-4353

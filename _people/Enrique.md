@@ -1,7 +1,7 @@
 ---
 position: 1
 title: Enrique J. Gómez Aguilera
-subtitle: PI of toBrainHealth
+subtitle: Principal Investigator
 image: assets/images/people/gbt/Enrique.jpg
 institution: GBT
 orcid_url: https://orcid.org/0000-0001-6998-1407

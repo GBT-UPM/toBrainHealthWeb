@@ -1,7 +1,7 @@
 ---
 position: 4
 title: Alba Roca Ventura
-subtitle: Member of the research team of toBrainHealth
+subtitle: Member of the research team
 image: assets/images/people/guttmann/Alba Roca Ventura.jpg
 institution: Guttmann
 orcid_url: https://orcid.org/0000-0002-9138-4294

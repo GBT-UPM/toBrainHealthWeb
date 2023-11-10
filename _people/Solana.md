@@ -1,7 +1,7 @@
 ---
 position: 1
 title: Javier Solana Sánchez
-subtitle: PI of toBrainHealth
+subtitle: Principal Investigator
 image: assets/images/people/guttmann/Javier Solana Sánchez.jpg
 institution: Guttmann
 orcid_url: https://orcid.org/0000-0003-0880-7856

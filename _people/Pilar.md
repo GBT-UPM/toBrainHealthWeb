@@ -1,7 +1,7 @@
 ---
 position: 3
 title: Pilar Herrero Martin
-subtitle: Member of the research team of toBrainHealth
+subtitle: Member of the research team
 image: assets/images/people/Unknown_person.jpg
 institution: GBT
 
