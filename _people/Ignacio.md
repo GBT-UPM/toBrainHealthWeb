@@ -2,7 +2,7 @@
 position: 4
 title: Ignacio Oropesa García
 subtitle: Member of the research team
-image: assets/images/people/Unknown_person.jpg
+image: assets/images/people/gbt/Nacho.jpg
 institution: GBT
 orcid_url: https://orcid.org/0000-0003-4560-285X
 ---
