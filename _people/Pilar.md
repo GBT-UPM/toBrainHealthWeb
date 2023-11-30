@@ -2,7 +2,7 @@
 position: 3
 title: Pilar Herrero Martin
 subtitle: Member of the research team
-image: assets/images/people/Unknown_person.jpg
+image: assets/images/people/gbt/Pilar.jpg
 institution: GBT
 
 ---
