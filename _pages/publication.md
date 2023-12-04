@@ -13,7 +13,7 @@ permalink: /publication
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
-				<a href="{{- post.url | absolute_url -}}"><h5 class="card-title">{{- post.title  | default: "---" -}}</h5></a>
+				<a {% if post.doi %} href="{{- post.doi -}}" {% endif %}><h5 class="card-title">{{- post.title  | default: "---" -}}</h5></a>
 			  <h6 class="card-subtitle mb-2 text-muted">{{- post.authors -}}</h6>
 				
 {%- assign fallbackdesc = post.abstract | 
