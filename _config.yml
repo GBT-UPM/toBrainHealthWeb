@@ -137,6 +137,9 @@ collections:
     output: false #Cambiar para que cada persona tenga su web
     #permalink: /people/:name
     sort_by: position 
+  publications:
+    output: false
+    sort_by: position
 
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
