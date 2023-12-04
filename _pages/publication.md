@@ -9,7 +9,7 @@ permalink: /publication
 <div class="col-12 mb-2">
 <div class="card chulapa-border-card-index">
 	<div class="row g-0">
-		<a href="{{- post.url | absolute_url -}}" class="col-sm-1 chulapa-min-h-10 chulapa-card-img chulapa-overlay-img chulapa-gradient {% if post.header_img == nil or post.og_image -%} d-none d-sm-flex {% endif %} ">
+		<a {% if post.doi %} href="{{- post.doi -}}"{% endif %} class="col-sm-1 chulapa-min-h-10 chulapa-card-img chulapa-overlay-img chulapa-gradient {% if post.header_img == nil or post.og_image -%} d-none d-sm-flex {% endif %} ">
 		</a>
 		<div class="col-sm">
 			<article class="card-body chulapa-links-hover-only">
