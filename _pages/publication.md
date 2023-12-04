@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: indexcategory
 title: "Publications"
 permalink: /publication
 ---
