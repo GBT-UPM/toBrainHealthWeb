@@ -10,4 +10,4 @@ tags: [meeting, kickoff]
 
 We appear in the press!
 
-[https://www.infosalus.com/salud-investigacion/noticia-investigacion-estudiara-factores-influyen-seguir-estilos-vida-beneficiosos-salud-cerebral-20231011142635.html]
+[Infosalus](https://www.infosalus.com/salud-investigacion/noticia-investigacion-estudiara-factores-influyen-seguir-estilos-vida-beneficiosos-salud-cerebral-20231011142635.html)
