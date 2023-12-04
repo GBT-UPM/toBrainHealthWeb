@@ -185,7 +185,7 @@ defaults:
           url: /people
     scope:
       path: ""
-      type: "people"
+      type: "publications"
     values:
       header_type       : "hero"
       show_bottomnavs   : true
