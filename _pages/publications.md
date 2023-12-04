@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-permalink: /publications
+permalink: /publication
 ---
 
 {% assign alldocs = site.publications | sort: "position" %}  
