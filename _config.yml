@@ -102,6 +102,8 @@ navbar:
     url     : /project
   - title   : News # Label
     url     : /blog/ # url	
+  - title   : Publications
+    url     : /publications
   - title   : About us
     url     : /aboutus
   
@@ -181,6 +183,18 @@ defaults:
       breadcrumb_list   :
         - label: People
           url: /people
+    scope:
+      path: ""
+      type: "people"
+    values:
+      header_type       : "hero"
+      show_bottomnavs   : true
+      show_sociallinks  : false
+      include_on_search : false
+      show_breadcrumb   : true
+      breadcrumb_list   :
+        - label: Publications
+          url: /publications
 
 
 # XX. Other settings - no need to modify
