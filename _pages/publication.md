@@ -22,7 +22,7 @@ permalink: /publication
               replace:"{{", ",.," | 
               replace:"{%", ",.," | 
               split: ",.," | first -%}
-				<div class="card-text">{{- post.excerpt | default: fallbackdesc | strip_html | 
+				<div class="card-text">{{- post.abstract | default: fallbackdesc | strip_html | 
               escape_once -}}
 				</div>
 			</article>
