@@ -7,4 +7,4 @@ institution: GBT
 
 ---
 
-**Pilar Herrero Martin**, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+**Pilar Herrero Martin**, Associate Professor at the Universidad Politécnica de Madrid (Spain). Author of more than 80 peer-reviewed international publications and editor of more than 15 international publications, European Ph.D. in Computer Science and extraordinary Ph.D. Award, in the last few years, Prof. Herrero has been involved in the organization of international events (workshops, conferences, …) and JCRS as editor. She has also been involved in more than one hundred and fifty International Program Committees.
