@@ -5,12 +5,15 @@ permalink: /aboutus
 ---
 
 ## About Us
-
-Welcome to toBrainHealth, an interdisciplinary collaboration between the Biomedical Engineering and Telemedicine research centre of UPM and the Institut Guttmann Barcelona  brings a holistic approach to brain health. Our primary mission is to promote cerebral well-being while striving for the early diagnosis of neurological and neuropsychiatric conditions. By harnessing the latest advancements in medical science, we tailor cutting-edge techniques to address each individual's unique health challenges. Our specialized, intensive neurorehabilitation programs are person-centered, aiming to restore, enhance, or compensate for functional deficits arising from neurological injuries. At toBrainHealth, we are committed to delivering the highest standard of care for your brain health journey.
+<!-- 
+Welcome to toBrainHealth, an interdisciplinary collaboration between the Biomedical Engineering and Telemedicine Centre of UPM and the Institut Guttmann Barcelona  brings a holistic approach to brain health. Our primary mission is to promote cerebral well-being while striving for the early diagnosis of neurological and neuropsychiatric conditions. By harnessing the latest advancements in medical science, we tailor cutting-edge techniques to address each individual's unique health challenges. Our specialized, intensive neurorehabilitation programs are person-centered, aiming to restore, enhance, or compensate for functional deficits arising from neurological injuries. At toBrainHealth, we are committed to delivering the highest standard of care for your brain health journey.
+-->
+Welcome to toBrainHealth, an interdisciplinary collaboration between The Biomedical Engineering and Telemedicine Centre (GBT) at UPM, which is part of the CTB (Center for Biomedical Technology), and Institut Guttmann in Barcelona, offering a holistic approach to brain health. Our primary mission is to promote cerebral well-being and facilitate the early diagnosis of neurological and neuropsychiatric conditions. By leveraging the latest advancements in medical science, we customize cutting-edge techniques to address each individual's unique health challenges. Our specialized, intensive neurorehabilitation programs are person-centered, designed to restore, enhance, or compensate for functional deficits resulting from neurological injuries. At toBrainHealth, we are dedicated to delivering the highest standard of care on your journey toward optimal brain health.
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 2%;">
     <img src="assets/logos/GBT_SIMPLE.png" alt="Logo GBT" width="65%">
+    <img src="assets/logos/ctb.png" alt="Logo CTB" width="65%">
   </div>
   <div style="flex: 50%; padding: 0%;">
     <img src="assets/logos/logo-guttmann.jpg" alt="Logo Guttmann" width="100%">
