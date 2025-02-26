@@ -35,7 +35,7 @@ This project aims to achieve the following specific objectives:
 The project team is made up of researchers from the Biomedical Engineering and Telemedicine Centre of the Universidad Politécnica de Madrid (GBT-UPM) and Institute Guttmann (GUTT), a neuro- rehabilitation hospital and brain health institute. The collaboration between the participating groups began more than 15 years ago and has led to 10 national and international projects, 6 doctoral theses, more than 60 publications and the development of a tele-rehabilitation platform GNPT1 (Medical Device since 2014-IML9/10).
 -->
 
-The project team is made up of researchers from the Biomedical Engineering and Telemedicine Centre of the Universidad Politécnica de Madrid (GBT-UPM, which is part of the CTB – Center for Biomedical Technology) and Institute Guttmann (GUTT), a neuro-rehabilitation hospital and brain health institute. The collaboration between the participating groups began more than 15 years ago and has led to 10 national and international projects, 6 doctoral theses, more than 60 publications, and the development of a tele-rehabilitation platform GNPT1 (Medical Device since 2014-IML9/10).
+The project team is made up of researchers from the Biomedical Engineering and Telemedicine Team of the Center for Biomedical Technology at the Universidad Politécnica de Madrid (GBT-CTB–UPM) and Institute Guttmann (GUTT), a neuro-rehabilitation hospital and brain health institute. The collaboration between the participating groups began more than 15 years ago and has led to 10 national and international projects, 6 doctoral theses, more than 60 publications, and the development of a tele-rehabilitation platform GNPT1 (Medical Device since 2014-IML9/10).
 
 ## News and Publications
 
