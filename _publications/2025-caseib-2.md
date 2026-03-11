@@ -1,5 +1,5 @@
 ---
-position: 4
+position: 5
 title: Fenotipado de Perfiles de Adherencia a Intervenciones de Estilos de Vida Saludables
 authors: Paloma Chausa, Javier Solana-Sánchez, Gabriele Cattaneo, Diego Moreno-Blanco, Marta Álvarez-Ambrosio, Ignacio Oropesa, Patricia Sánchez-González, Enrique J. Gómez
 journal: CASEIB 2025

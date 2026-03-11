@@ -1,5 +1,5 @@
 ---
-position: 5
+position: 6
 title: Lifestyle trajectories in middle-aged adults and their relationship with health indicators
 authors: David Bartrés-Faz, Harriet Demnitz-King, María Cabello-Toscano, Lídia Vaqué-Alcázar, Rob Saunders, Edelweiss Touron, Gabriele Cattaneo, Julie Gonneaud, Olga Klimecki, Núria Bargalló, Javier Sánchez-Solana, José M. Tormos, Gäel Chételat, Álvaro Pascual-Leone, Natalie L. Marchant & the Medit-Ageing Research Group
 journal: Nature Mental Health

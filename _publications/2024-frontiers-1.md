@@ -1,5 +1,5 @@
 ---
-position: 5
+position: 3
 title: Lifestyle trajectories in middle-aged adults and their relationship with health indicators
 authors: Alba Roca-Ventura, Javier Solana-Sánchez, Gabriele Cattaneo, Josep M. Tormos-Muñoz, Álvaro Pascual-Leone, David Bartrés-Faz
 journal: Frontiers in Public Health
