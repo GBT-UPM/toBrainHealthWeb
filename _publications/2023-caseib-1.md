@@ -1,5 +1,5 @@
 ---
-position: 1
+position: 7
 title: Aplicación de técnicas de Inteligencia Artificial Explicable para la identificación de factores relacionados con la calidad de sueño en adultos sanos
 authors: P. Chausa, M. Gutiérrez, J. Solana-Sánchez, G. Cattaneo, J.M. Tormos, P. Sánchez-González, D. Bartrés-Faz, A. Pascual-Leone, E.J. Gómez
 journal: CASEIB 2023 

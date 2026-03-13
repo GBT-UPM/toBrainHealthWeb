@@ -1,5 +1,5 @@
 ---
-position: 2
+position: 6
 title: Diseño e implementación de un modelo basado en inteligencia artificial para estimar el consumo máximo de oxígeno en adultos de mediana edad
 authors: P. Chausa, J. Pájaro, J. Solana-Sánchez, G. Cattaneo, G. España-Irla, J.M. Tormos, P. Sánchez-González, D. Bartrés-Faz, A. Pascual-Leone, E.J. Gómez
 journal: CASEIB 2023 
