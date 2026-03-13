@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publication
 ---
 
-{%- assign alldocs = site.publications -%}
+{%- assign alldocs = site.publications | sort: "position" -%}
    {% for post in alldocs %} 
 <div class="col-12 mb-2">
 <div class="card chulapa-border-card-index">
