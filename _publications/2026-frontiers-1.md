@@ -1,7 +1,7 @@
 ---
 position: 1
 title: "Digital phenotyping for assessment and prediction of interoception, chronic stress, and self-regulation in adults: a scoping review"
-authors: Paloma Chausa, Javier Solana-Sánchez, Gabriele Cattaneo, Diego Moreno-Blanco, Marta Álvarez-Ambrosio, Ignacio Oropesa, Patricia Sánchez-González, Enrique J. Gómez
+authors: Marta Álvarez-Ambrosio, Paloma Chausa, Diego Moreno-Blanco, Alba Roca-Ventura, Ignacio Oropesa, Gabriele Cattaneo, Patricia Sánchez-González, Javier Solana-Sánchez, Enrique J. Gómez
 journal: Frontiers in Digital Health
 image: 
 date: "09/02/2026"
